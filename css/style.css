@@ -11,11 +11,17 @@ table {
 }
 
 td, th {
-	border: 1px solid;
-  }
+	border: 8px solid;
+	border-radius: 8px;
+}
 
 img {
 	border-radius: 4px;
   width: 350px;
 	height: auto;
+}
+
+.venus {
+	background-color: #c18f17;
+	color: #f9c21a;
 }
