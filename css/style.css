@@ -43,6 +43,12 @@ img {
 }
 
 .jupiter {
-	background-color: #ffeed5	;
-	color: #c73a0a;
+	background-color: #c73a0a;
+	color: #ffeed5;
+}
+
+.longtext{
+	width: 100px;
+	height: auto;
+	font-weight: bold;
 }
