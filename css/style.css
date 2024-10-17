@@ -1,5 +1,13 @@
 body {
-	text-align: center;
+	font-family: "Georgia", Serif;
+  text-align: center;
+  color: white;
+	background-color: black;
+}
+
+table {
+	margin-left: auto;
+  margin-right: auto;
 }
 
 td, th {
@@ -8,6 +16,6 @@ td, th {
 
 img {
 	border-radius: 4px;
-  width: 150px;
+  width: 350px;
 	height: auto;
 }
