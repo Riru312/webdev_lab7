@@ -25,3 +25,18 @@ img {
 	background-color: #c18f17;
 	color: #f9c21a;
 }
+
+.earth {
+	background-color: #blue;
+	color: #green;
+}
+
+.mars {
+	background-color: #451804;
+	color: #c1440e	;
+}
+
+.jupiter {
+	background-color: #ffeed5	;
+	color: #c73a0a;
+}
