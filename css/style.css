@@ -5,6 +5,12 @@ body {
 	background-color: black;
 }
 
+h1 {
+	font-size: 70px;
+	font-weight: bold;
+	color: yellow;
+}
+
 table {
 	margin-left: auto;
   margin-right: auto;
@@ -26,9 +32,9 @@ img {
 	color: #f9c21a;
 }
 
-.earth {
-	background-color: #blue;
-	color: #green;
+.earth{
+	background-color: green;
+	color: blue;
 }
 
 .mars {
