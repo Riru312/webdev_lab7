@@ -1,4 +1,11 @@
+
+
 td, th {
 	border: 1px solid;
   }
-  
+
+img {
+	border-radius: 4px;
+  width: 150px;
+	height: auto;
+}
